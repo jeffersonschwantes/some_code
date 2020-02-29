@@ -6,3 +6,4 @@ NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
 echo "from githook!!!"
 echo "another line"
+echo "other"
